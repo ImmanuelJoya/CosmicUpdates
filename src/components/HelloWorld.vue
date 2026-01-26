@@ -94,7 +94,7 @@ onMounted(() => {
         <div class="star"></div>
         <div class="star"></div>
       </div>
-      <p class="loading-text">Fetching cosmic wonders...</p>
+      <p class="loading-text">Fetching cosmic wonders..</p>
     </div>
 
     <!-- Error State -->
