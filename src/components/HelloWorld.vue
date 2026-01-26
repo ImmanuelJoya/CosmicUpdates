@@ -10,7 +10,7 @@ interface ApodData {
   media_type: string
   date: string
   copyright?: string
-}
+} 
 
 const apodData = ref<ApodData | null>(null)
 const loading = ref(true)
