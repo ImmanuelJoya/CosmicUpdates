@@ -44,7 +44,7 @@ const getData = async () => {
   } finally {
     loading.value = false
   }
-}
+} 
 
 const getRandomApod = async () => {
   const url = "https://api.nasa.gov/planetary/apod"
