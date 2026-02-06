@@ -11,7 +11,7 @@ interface ApodData {
   date: string
   copyright?: string
 } 
-
+ 
 const apodData = ref<ApodData | null>(null)
 const loading = ref(true)
 const error = ref<string | null>(null)
